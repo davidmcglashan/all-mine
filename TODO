@@ -23,6 +23,7 @@ design
 
 programming
 -----------
+- nested CSS
 - pushing might be improved by animating bob and then moving the boulder on 3/4ths of his delta
 - collision detection might be improved by looking at deltas to gauge distance
 - boulderUpdate flag which triggers 

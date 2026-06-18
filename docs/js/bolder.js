@@ -1,5 +1,5 @@
 const bolder = {
-	version: 'v0.9',
+	version: 'v0.9.1',
 	fields: [
 		{ name: "minWidth", label: "Minimum width", type: "number", value: 25 },
 		{ name: "maxWidth", label: "Maximum width", type: "number", value: 45 },
